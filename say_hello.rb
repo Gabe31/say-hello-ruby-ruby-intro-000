@@ -3,4 +3,4 @@ def say_hello (name, "Hello Ruby Programmer")
   put "Hello "name !"
 end
 
-say-hello
+say-hello-ruby
